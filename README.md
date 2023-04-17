@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I am Ana👋
 
-<!--
-**Acno0/Acno0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About 🧑‍💻
+I am Web Developer. And, I am studyng web development at [Rocketseat](https://app.rocketseat.com.br/).
 
-Here are some ideas to get you started:
+#### Current stack 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Main language: `Java Script`
+- Backend: `Nodejs`
+- Frontend: `Reactjs`, `HTML5`, `CSS3`, `Java Script`
+- Layout Desing: `Figma`
+- Version code control: ` Git and Github`
+- Tools: `VSCode`, `Markdown`
+
+I'm mostly active within the Rocketseat Community
+
+#### Contacts 💬
+- Email: oliveiraanaclara199@gmail.com
+- Linkedin: [Linkedin Ana Clara](https://www.linkedin.com/in/ana-clara-o-751528137)
